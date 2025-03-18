@@ -4,4 +4,4 @@ This project was developed for my Discrete Structures class, and its a Java prog
 
 ## Output:
 
-[image](https://github.com/user-attachments/assets/96d3527b-7ee5-4e16-a555-6a4cf5efc908)
+![image](https://github.com/user-attachments/assets/96d3527b-7ee5-4e16-a555-6a4cf5efc908)
